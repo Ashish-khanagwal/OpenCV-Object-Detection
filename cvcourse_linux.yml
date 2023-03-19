@@ -1,0 +1,4 @@
+name: python_cvcourse
+channels:
+  - defaults
+prefix: /home/ashish-khanagwal/miniconda3/envs/python_cvcourse
